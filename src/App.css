@@ -45,10 +45,10 @@
 
 }
 .leftside{
-  height: 400px;
-  width: 350px;
+  height: 450px;
+  width: 360px;
   background-image: url("./Images/left_img.png");
-  background-size: contain;
+  background-size: cover;
 }
 .rightside{
   height: 500px;

@@ -1,0 +1,51 @@
+.right_content{
+    height: 450px;
+    width: 600px;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 600;
+}
+.head{
+    margin-left: 250px;
+}
+.input_holder{
+    height: 34px;
+    width: 480px;
+    border: 2px solid rgb(178, 174, 174);
+    border-radius: 4px;
+}
+.right_content div,h5{
+    margin-left: 55px;
+}
+.button{
+    height: 34px;
+    width:360px;
+    background-color: #1575a7;
+    color: white;
+    font-weight: 600;
+    border: 3px solid transparent;
+    border-radius: 2px;
+    margin: 20px 0px 0px 125px;
+}
+button:hover{
+    border: 3px solid rgb(224, 196, 53);
+}
+.checkbox{
+    color: rgb(115, 110, 110);
+}
+.changepass{
+    margin-left:255px;
+    color: orange;
+}
+.terms{
+    color: orange;
+}
+.terms:hover{
+    text-decoration: underline;
+}
+.register{
+    margin-left: 175px;
+}
+.cont{
+    margin: 10px 0px 10px 0px;
+}
